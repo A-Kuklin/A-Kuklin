@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python (backend) at Yandex.Praktikum <br></p>
 [![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/-Django-464646??style=flat-square&logo=Django)](https://www.djangoproject.com/)
-[![SQLite](https://img.shields.io/badge/-SQLite-464646??style=flat-square&logo=SQLite)](https://www.sqlite.org/index.html)
 
 <!--
 **A-Kuklin/A-Kuklin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
