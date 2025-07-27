@@ -27,7 +27,25 @@
 ---
 
 ### Опыт работы
-<table>
+<table>  
+  <tr>
+    <td>июль 2021 – н. в.</td>
+    <td>КБ Стрелка<br>(<a href = "https://www.strelka-kb.com/">strelka-kb.com</a>)</td>
+    <td>
+      <b>Младший backend-разработчик</b> в составе команды, участие в разработках в сфере дата аналитики.<br><br>
+      - Разработка микросервисов различного назначения.<br>
+      - Разработка API для внутренних сервисов.<br>
+      - Создание сервисов чат-ботов.<br>
+      - Разработка проектов 
+      <a href = "https://chego-hochet-gorod.com/">«Чего хочет город»</a>,
+      <a href = "https://5stepsforcities.ru/">«Пять шагов для городов»</a>,
+      <a href = "https://план.байкальск.рф/">«Цифровой мастер-план Байкальска»</a>.<br>
+      - Разработка внутренного чат-бота.<br>
+      - Поддержка чат-бота дружественного ресторана.<br>
+      - Разработка классификатора текстов.<br><br>
+      Стек: Python 3, PostgreSQL, Sanic, RabbitMQ, AsyncIO, Simple-JWT, GIT, GraphQL, Pandas, NumPy, Docker, REST API<br><br>
+    </td>
+  </tr>
   <tr>
     <td>июль 2021 – н. в.</td>
     <td>КБ Стрелка<br>(<a href = "https://www.strelka-kb.com/">strelka-kb.com</a>)</td>
