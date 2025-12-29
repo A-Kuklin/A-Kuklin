@@ -1,7 +1,7 @@
 
 <h4>Backend Developer</h4>
 
-<a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/cv.pdf">CV_A._Kuklin_2026.pdf</a>
+<a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/CV A. Kuklin 2026.pdf">CV_A._Kuklin_2026.pdf</a>
 
 [![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
 [![Golang](https://img.shields.io/badge/-Golang-464646??style=flat-square&logo=Go)](https://go.dev/)
