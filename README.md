@@ -1,7 +1,11 @@
 
-<h4>Backend Developer</h4>
+<b>Backend Developer</b> with 5+ years of commercial experience in designing, developing, and maintaining
+microservices and high-load digital products; proficient in building scalable backend systems in Python and
+Go, with a focus on enhancing core user-facing features such as search, listings, and personalization; making
+data-driven decisions within e-commerce and digital platform environments, directly contributing to system
+stability, performance optimization, and scalability for platforms serving 20M+ users.
 
-<a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/CV A. Kuklin 2026.pdf">CV_A._Kuklin_2026.pdf</a>
+<a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/CV A. Kuklin 2026.pdf">CV A. Kuklin 2026.pdf</a>
 
 [![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
 [![Golang](https://img.shields.io/badge/-Golang-464646??style=flat-square&logo=Go)](https://go.dev/)
