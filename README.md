@@ -1,4 +1,13 @@
-## Hi there 👋
+
+<h4>Backend Developer</h4>
+
+<a href = "https://github.com/A-Kuklin/A-Kuklin/blob/main/cv.pdf">CV_A._Kuklin_2026.pdf</a>
+
+[![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
+[![Golang](https://img.shields.io/badge/-Golang-464646??style=flat-square&logo=Go)](https://go.dev/)
+
+
+
 
 <!--
 **A-Kuklin/A-Kuklin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
